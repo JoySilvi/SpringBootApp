@@ -7,4 +7,8 @@ public class Car
 		
 	}
 
+	public void destroy()
+	{
+		//HIS-134 changes
+	}
 }
